@@ -18,5 +18,6 @@ var urls = {
     't17': 'https://www.google.com/url?q=https://www.youtube.com/watch?v%3DAMa0EjH08KE&sa=D&source=editors&ust=1722524831335397&usg=AOvVaw3SP04M2BVScOV9CTErCgYC',
     't18': 'https://l.facebook.com/l.php?u=https://www.youtube.com/results?search_query=skillshare+coupon+code',
     't19': 'https://l.facebook.com/l.php?u=https://www.youtube.com/results?search_query=skillshare+coupon',
+    't20': 'https://l.facebook.com/l.php?u=https://www.youtube.com/results?search_query=skillshare+coupon',
     'twitter': 'https://twitter.com/shoaiybsysa'
 };
