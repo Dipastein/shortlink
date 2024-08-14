@@ -1,5 +1,5 @@
 var urls = {
-    't1': 'https://www.google.com/url?q=https://www.youtube.com/watch?v%3D7sGdPgRScUM&sa=D&source=editors&ust=1722458918255036&usg=AOvVaw1dun_RwtK6YaCx7HKSHD3V',
+    't1': 'https://www.youtube.com/results?search_query=hostinger+coupon+code',
     't2': 'https://www.google.com/url?q=https://www.youtube.com/watch?v%3DoiFGd102Ep8&sa=D&source=editors&ust=1722458918253010&usg=AOvVaw3rwLkrW6eMIikP1_o06Nq6',
     't3': 'https://www.google.com/url?q=https://www.youtube.com/watch?v%3DXkdnbnRg0QY&sa=D&source=editors&ust=1722458918253219&usg=AOvVaw3vrga0M0qD_k4VT5PESz4h',
     't4': 'https://www.google.com/url?q=https://www.youtube.com/watch?v%3DExLU87w4_1I&sa=D&source=editors&ust=1722459756409188&usg=AOvVaw0Ighen6mGHuZYPIhnyfy9q',
